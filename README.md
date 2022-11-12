@@ -16,4 +16,4 @@ Cách setup:
 + chạy file bot.py
 
 Ghi ra đây cũng chả hiểu đâu nên xem vd
-Link vd hd : 
+Link vd hd : https://www.youtube.com/watch?v=pCOoW8FnMWU
