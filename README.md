@@ -9,7 +9,7 @@ How to setup:
 + unzip node_modules.zip file
 + install nodejs 
 + accept intents at https://discord.com/developers/applications/
-+ thay token và user ID 
++ change token and roomID at alayar.json, user ID at bot.py
 + run file setup.py ( pip install if you miss some modules )
 + run file bot.py
 
