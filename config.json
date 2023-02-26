@@ -1,0 +1,13 @@
+{
+  "token": "MTAxNTQ4MzU1NjUwMTQwOTc5Mg.Gk05y2.ke6YfVsXD2phtBTiDlSk9XG315hlJDEcXkfcz8",
+  "prefix": "!",
+  "activity_type": "Watching",
+  "activity_name": "Services",
+  "disable_help": false,
+  "hide_ips": false,
+  "notification_channel": 1234,
+  "retries": 0,
+  "role_to_mention": 1234,
+  "secs_between_ping": 30,
+  "timeout": 5
+}
