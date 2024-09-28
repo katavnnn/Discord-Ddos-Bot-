@@ -3,7 +3,6 @@ Source bot ddos
 
 Bot using Python + Javascript languages
 
-Donate for me Link : https://link68.net/muIw
 
 How to setup:
 + unzip node_modules.zip file
